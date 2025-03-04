@@ -10,9 +10,12 @@
 <a href="https://t.me/reginakokh" target="_blank"> 
 <img src="https://camo.githubusercontent.com/2f2b0c82cb9dc05f15a7b3724637a4862a98f06ad90260c6577fa873571475e6/68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f54656c656772616d5f28736f667477617265292f54656c656772616d5f28736f667477617265292d4c6f676f2e77696e652e706e67" width="60" height="40" alt="telegram" />
 </a>
+<!-- Email -->
+    <a href="mailto:your-rv.kokh1602@omgau.org"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" alt="email" />
+    </a>
 </div>
 
----
 
 ### Tech Stack:
 
